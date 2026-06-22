@@ -10,17 +10,8 @@ Analytical Models
 Business Intelligence
 Dashboard Development
 # Architecture Diagram
-CSV Files
-     ↓
-SAP Datasphere Tables
-     ↓
-Graphical Views
-     ↓
-Analytical Models
-     ↓
-SAP Analytics Cloud
-     ↓
-Business Dashboards
+<img width="1536" height="1024" alt="Architeture" src="https://github.com/user-attachments/assets/ee31701b-aec3-4a3b-8eb3-e7eb53ce7944" />
+
 # Key Feature
 Data Modeling
 Semantic Layer Design
@@ -29,7 +20,18 @@ Analytical Models
 KPI Reporting
 Interactive Dashboards
 # Daashboards
-Product Analytics
 Store Performance
+
+<img width="1365" height="595" alt="Store Perfomace" src="https://github.com/user-attachments/assets/2f9a28bf-e876-4594-aa08-401fc0c95ec9" />
+Product Analytics
+
+<img width="1362" height="545" alt="Product Analytics" src="https://github.com/user-attachments/assets/530de0f4-7f1a-4751-a882-199eec78d38c" />
+
 Customer Analytics
+
+<img width="1365" height="637" alt="Customer Analytics" src="https://github.com/user-attachments/assets/f3bc7f23-f5d2-4cbc-8061-3f12aeac2d9e" />
+
 Sales Performance
+
+<img width="1364" height="589" alt="Sales Performace" src="https://github.com/user-attachments/assets/20d9015a-e4d8-4dba-afc2-487763cba53a" />
+
